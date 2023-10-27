@@ -1,2 +1,2 @@
 # demo
-This is my first git rpositiory - Rohit
+This is my first git repositiory - Rohit
